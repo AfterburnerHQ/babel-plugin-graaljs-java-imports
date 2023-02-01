@@ -1,0 +1,13 @@
+{
+    "name": "@afterburnerhq/babel-plugin-graaljs-java-imports",
+    "version": "0.0.0",
+    "description": "Babel plugin for supporting GraalJS Java imports",
+    "main": "dist/index.js",
+    "author": "Vladimir Mutafov",
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "@babel/core": "^7.20.12",
+        "@babel/types": "^7.20.7",
+        "typescript": "^4.9.5"
+    }
+}
